@@ -250,13 +250,18 @@ Organized by:
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aberami7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=Aberami7&theme=tokyonight&hide_border=true"/>
 
 <br><br>
+
+</div>
+<div align="center">
+
+# 🗓️ Coding Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aberami7&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
