@@ -249,50 +249,20 @@ Organized by **GUVI & HCL**
 
 
 ---
-
 # 📜 Certifications
 
+<div align="center">
 
-### 🏅 Software Testing (Elite)
+| 🏅 Certification | 🏢 Organization | 📅 Year |
+|:----------------|:---------------|:-------:|
+| Software Testing (Elite) | NPTEL | 2025 |
+| Introduction to Cloud Computing | AWS | 2026 |
+| Deloitte Australia Virtual Job Simulation - Cybersecurity | Deloitte | 2026 |
+| Deloitte Australia Virtual Job Simulation - Data Analytics | Deloitte | 2026 |
+| AI & Machine Learning (Gold) | FutureSkills Prime - NASSCOM | 2026 |
+| Cloud Computing Engineering (Gold) | FutureSkills Prime - NASSCOM | 2026 |
 
-**NPTEL**
-
-📅 2025
-
-
-<br>
-
-
-### ☁️ Introduction to Cloud Computing
-
-**AWS**
-
-📅 2026
-
-
-<br>
-
-
-### 🔐 Deloitte Australia Virtual Job Simulations
-
-Domains:
-
-- Cybersecurity
-- Data Analytics
-
-📅 2026
-
-
-<br>
-
-
-### 🤖 FutureSkills Prime (NASSCOM)
-
-Completed Certifications:
-
-- AI & Machine Learning — Gold
-- Cloud Computing Engineering — Gold
-
+</div>
 
 ---
 # 📊 GitHub Stats
@@ -320,15 +290,7 @@ Completed Certifications:
 
 ### Turning Ideas into Scalable Software Solutions
 
-<br>
 
-💻 Full Stack Development  
-🤖 Artificial Intelligence Applications  
-⚡ Problem Solving  
-🌱 Continuous Learning  
-
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=120&section=footer"/>
 
