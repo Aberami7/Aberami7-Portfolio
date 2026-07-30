@@ -258,12 +258,25 @@ Organized by:
 
 <div align="center">
 
+<div align="center">
+
 # 💻 Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aberami7&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br><br>
 
+# 📈 Coding Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aberami7&theme=tokyo-night&hide_border=true&area=true"/>
+
+<br><br>
+
+# 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aberami7&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 ---
 
 <div align="center">
