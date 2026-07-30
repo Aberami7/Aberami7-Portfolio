@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=ABERAMI+K+A;Engineering+the+Future;Full+Stack+Developer;AI+%26+Backend+Specialist"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=ABERAMI+K+A;Computer+Science+Engineering+Student;Full+Stack+Developer;AI+%26+Backend+Enthusiast"/>
+
+<br>
+
+<p>🚀 Building intelligent applications with modern technologies</p>
 
 <p align="center">
   <a href="https://github.com/Aberami7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -12,64 +16,72 @@
 
 ---
 
-# 🚀 Welcome to my Universe
+# 👨‍💻 About Me
+Computer Science and Engineering student passionate about building AI-powered and full-stack applications. Experienced in developing scalable systems, REST APIs, database-driven applications, and intelligent solutions for real-world problems[cite: 1]. Currently focusing on Data Structures & Algorithms, Backend Development, AI Applications, and Scalable Software Systems[cite: 1].
 
+---
+
+# 🛠️ Technical Skills
 <div align="center">
-  <h3>"Code is my canvas, and logic is my brush."</h3>
-  <p>CS Engineering student | Building AI-driven solutions | Full Stack Enthusiast</p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,html,css,django,fastapi,mysql,git,github,vscode,docker"/>
 </div>
 
 ---
 
-## 🛠 Tech Arsenal
+# 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,fastapi,django,mysql,git,github,vscode,docker"/>
-</div>
+### 🌱 Verdant AI: AI Powered Sustainable Product Analyzer
+An AI-powered platform that analyzes product ingredients and provides sustainability insights[cite: 1].
+- **Highlights:** Automated ingredient extraction using EasyOCR, Greenwashing detection using AI, Intelligent eco-report generation, AI workflow orchestration[cite: 1].
+- **Tech Stack:** `React.js`, `TypeScript`, `FastAPI`, `EasyOCR`, `LangGraph`, `Groq LLM`, `Aiven Cloud DB`[cite: 1].
 
----
+### 🚖 Privacy-Preserving Secure Payment System
+A secure ride-booking application designed to protect rider and driver payment privacy[cite: 1].
+- **Highlights:** Razorpay payment gateway integration, Secure transaction workflow, Privacy-focused payment handling, Automated payment processing[cite: 1].
+- **Tech Stack:** `React.js`, `Django`, `Python`, `Razorpay API`, `REST APIs`[cite: 1].
 
-## 🏛 Project Highlights
+### 📢 Smart Grievance & Feedback Management System
+A full-stack system designed to digitize grievance handling with transparency and automation[cite: 1].
+- **Highlights:** Anonymous complaint submission, Complaint tracking system, Admin dashboard workflow, SLA-based escalation mechanism[cite: 1].
+- **Tech Stack:** `React`, `JavaScript`, `HTML`, `CSS`, `MySQL`, `REST APIs`[cite: 1].
 
-| Project Name | Key Technologies | Impact |
-| :--- | :--- | :--- |
-| **Verdant AI** | React, FastAPI, LangGraph | Greenwashing Detection |
-| **Secure Ride Pay** | React, Django, Razorpay | Privacy-First Payments |
-| **Smart Grievance** | React, MySQL, REST API | Automated Escalation |
-| **Event System** | Java, MySQL, HTML | 40% Efficiency Boost |
-
----
-
-## 💼 Professional Journey
-
-*   **Infosys Springboard** | Full Stack Intern | *Sept 2025 - Nov 2025*
-*   **We Touch Technologies** | Web Dev Intern | *June 2024 - Aug 2024*
+### 🎫 Event Management System
+A web-based event management application developed during internship[cite: 1].
+- **Highlights:** Digital event management, Database integration, Attendee tracking, Reduced manual management effort[cite: 1].
+- **Tech Stack:** `Java`, `HTML`, `CSS`, `MySQL`, `REST APIs`[cite: 1].
 
 ---
 
-## 🎓 Academic Milestones
-> **B.E Computer Science** | V.S.B Engineering College | **CGPA: 8.50**
+# 💼 Experience
+- **Full Stack Development Intern** | Infosys Springboard (09/2025 - 11/2025)[cite: 1]
+- **Web Development Intern** | We Touch Technologies (06/2024 - 08/2024)[cite: 1]
 
 ---
 
-## 🏅 Certifications & Research
-- 🔬 **Published Research:** "Prediction of Lifestyle Diseases using Random Forest" (AIJFR, 2026)
-- ☁️ **Cloud & AI:** AWS Cloud / FutureSkills Prime (Gold)
-- 🔐 **Cybersecurity:** Deloitte Virtual Job Simulation
+# 🎓 Education
+- **B.E Computer Science and Engineering** | V.S.B Engineering College, Karur (2023-2027) | **CGPA: 8.50**[cite: 1]
+- **Higher Secondary Education** | KSV Higher Secondary School, Karur (2022-2023) | **Percentage: 94.5%**[cite: 1]
 
 ---
 
-<div align="center">
-
-## 📊 Analytics That Matter
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aberami7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aberami7&theme=tokyonight&hide_border=true"/>
-
-</div>
+# 🏆 Achievements & Certifications
+- **Research Publication:** "Prediction of Lifestyle Diseases using Random Forest" in AIJFR (2026)[cite: 1].
+- **Technical Presentation:** Blockchain Technology at NEXUS 2K25, Government College of Technology, Coimbatore[cite: 1].
+- **Innovation:** India AI Impact Buildathon 2026 (Organized by GUVI & HCL)[cite: 1].
+- **Certifications:** Software Testing (NPTEL Elite), AWS Cloud Computing, Deloitte Australia Virtual Job Simulations, NASSCOM FutureSkills Prime (AI & ML Gold, Cloud Computing Gold)[cite: 1].
 
 ---
 
 <div align="center">
-  <p><i>Thanks for visiting my portfolio!</i></p>
+
+# 📊 GitHub Stats
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Aberami7&show_icons=true&theme=tokyonight&hide_border=true"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aberami7&theme=tokyonight&hide_border=true"/></td>
+  </tr>
+</table>
+
+# ⚡ Code • Create • Innovate
+Building intelligent solutions for real-world challenges.
 </div>
