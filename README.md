@@ -41,15 +41,15 @@ Currently focusing on:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,fastapi,mysql,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,fastapi,mysql,html,css,git,github,vscode"/>
 
 <br><br>
 
-<table align="center">
+<table align="center" width="90%">
 
 <tr>
-<th>Category</th>
-<th>Skills</th>
+<th width="35%">Category</th>
+<th width="65%">Skills</th>
 </tr>
 
 <tr>
