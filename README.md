@@ -30,13 +30,25 @@
 
 ---
 
+<div align="center">
+
 # 🚀 Professional Summary
+
+</div>
+
+<table>
+<tr>
+<td align="center">
 
 Computer Science and Engineering student with hands-on experience in full-stack and AI-based application development.
 
-Skilled in **Java, Python, React.js, Backend Development, and API Integration** with a strong focus on building scalable, real-time applications.
+Skilled in Java, Python, React.js, backend development, and API integration with a strong focus on building scalable real-time applications.
 
-Passionate about solving real-world problems through technology and continuously improving software development skills.
+Passionate about problem-solving and developing efficient solutions for real-world challenges.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -50,15 +62,17 @@ Passionate about solving real-world problems through technology and continuously
 
 ---
 
-# 🧠 Skills
+<div align="center">
+
+# 🧠 Skills & Expertise
 
 <table>
 
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
-### 👨‍💻 Programming
+<h3>👨‍💻 Programming</h3>
 
 Java  
 Python  
@@ -66,25 +80,59 @@ JavaScript
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-### 🌐 Frontend
+<h3>🌐 Frontend</h3>
 
+React.js  
 HTML5  
 CSS3  
-React.js  
 TypeScript
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>⚙️ Backend</h3>
+
+FastAPI  
+Django  
+REST APIs  
+API Integration
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<h3>🗄️ Database</h3>
+
+MySQL  
+Aiven Cloud DB
 
 </td>
 
 <td align="center">
 
-### ⚙️ Backend & Tools
+<h3>🤖 AI Technologies</h3>
 
-Django  
-FastAPI  
-REST APIs  
-Git & GitHub
+EasyOCR  
+LangGraph  
+Groq LLM
+
+</td>
+
+<td align="center">
+
+<h3>🛠️ Tools</h3>
+
+Git  
+GitHub  
+VS Code  
+Docker
 
 </td>
 
@@ -92,8 +140,11 @@ Git & GitHub
 
 </table>
 
+</div>
 
 ---
+
+<div align="center">
 
 # 🚀 Featured Projects
 
@@ -101,56 +152,45 @@ Git & GitHub
 
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-<h2 align="center">🌱 Verdant AI</h2>
+<h2>🌱 Verdant AI</h2>
 
-<h4 align="center">
-AI Powered Sustainable Product Analyzer
-</h4>
+<h4>AI Powered Sustainable Product Analyzer</h4>
 
 <p>
-
-• AI-based ingredient analysis system  
-• Automated ingredient extraction using EasyOCR  
-• Detects greenwashing and provides sustainability insights  
-• Generates intelligent eco reports
-
+AI-based ingredient analyzer that extracts product ingredients,
+detects greenwashing and generates sustainability insights.
 </p>
 
 <b>Tech Stack</b>
 
-<br>
+<br><br>
 
-`React.js` `TypeScript` `FastAPI` `Aiven Cloud DB`  
-`EasyOCR` `LangGraph` `Groq LLM`
+React.js • TypeScript • FastAPI  
+EasyOCR • LangGraph • Groq LLM  
+Aiven Cloud DB
 
 </td>
 
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-<h2 align="center">🚖 Secure Payment System</h2>
+<h2>🚖 Secure Payment System</h2>
 
-<h4 align="center">
-Privacy-Preserving Ride Payment Platform
-</h4>
+<h4>Privacy-Preserving Ride Platform</h4>
 
 <p>
-
-• Secure ride booking application  
-• Razorpay UPI payment integration  
-• Protects rider-driver payment privacy  
-• Automated transaction workflow
-
+Secure ride booking platform with Razorpay integration
+and protected rider-driver transactions.
 </p>
 
 <b>Tech Stack</b>
 
-<br>
+<br><br>
 
-`React.js` `Django` `Python`  
-`Razorpay API` `REST APIs`
+React.js • Django • Python  
+Razorpay API • REST APIs
 
 </td>
 
@@ -159,55 +199,44 @@ Privacy-Preserving Ride Payment Platform
 
 <tr>
 
-<td width="50%" valign="top">
+<td align="center">
 
-<h2 align="center">📢 Smart Grievance System</h2>
+<h2>📢 Smart Grievance System</h2>
 
-<h4 align="center">
-Complaint Management Platform
-</h4>
+<h4>Complaint Management Platform</h4>
 
 <p>
-
-• Anonymous complaint submission  
-• Admin dashboard workflow  
-• Automated escalation system  
-• Complaint tracking and analytics
-
+Anonymous complaint reporting, tracking,
+admin workflow and automated escalation.
 </p>
 
 <b>Tech Stack</b>
 
-<br>
+<br><br>
 
-`React` `JavaScript` `HTML`  
-`CSS` `MySQL` `REST APIs`
+React • JavaScript • MySQL  
+HTML • CSS • REST APIs
 
 </td>
 
 
-<td width="50%" valign="top">
+<td align="center">
 
-<h2 align="center">🎫 Event Management System</h2>
+<h2>🎫 Event Management System</h2>
 
-<h4 align="center">
-Web Based Event Platform
-</h4>
+<h4>Web Application</h4>
 
 <p>
-
-• Developed during internship  
-• Reduced manual management effort  
-• Enabled attendee tracking system
-
+Digital event management platform developed during internship
+with database integration and attendee tracking.
 </p>
 
 <b>Tech Stack</b>
 
-<br>
+<br><br>
 
-`Java` `HTML` `CSS`  
-`MySQL` `REST APIs`
+Java • HTML • CSS  
+MySQL • REST APIs
 
 </td>
 
@@ -215,8 +244,11 @@ Web Based Event Platform
 
 </table>
 
+</div>
 
 ---
+
+<div align="center">
 
 # 🎓 Education
 
@@ -224,13 +256,17 @@ Web Based Event Platform
 
 <tr>
 
-<td>
+<td align="center">
 
-### 🎓 B.E Computer Science and Engineering
+<h3>🎓 B.E Computer Science and Engineering</h3>
 
-**V.S.B. Engineering College, Karur**
+V.S.B. Engineering College, Karur
 
-📅 2023 – 2027 (Present)
+<br>
+
+📅 2023 - 2027 (Present)
+
+<br>
 
 ⭐ CGPA: 8.50
 
@@ -241,13 +277,17 @@ Web Based Event Platform
 
 <tr>
 
-<td>
+<td align="center">
 
-### 🏫 Higher Secondary Education
+<h3>🏫 Higher Secondary Education</h3>
 
-**KSV Higher Secondary School, Karur**
+KSV Higher Secondary School, Karur
 
-📅 2022 – 2023
+<br>
+
+📅 2022 - 2023
+
+<br>
 
 ⭐ Percentage: 94.5%
 
@@ -257,74 +297,76 @@ Web Based Event Platform
 
 </table>
 
+</div>
 
 ---
+
+<div align="center">
 
 # 💼 Work Experience
-
-
-## 🌐 Web Development Intern
-
-### We Touch Technologies
-
-📅 06/2024 – 08/2024
-
-- Built a web-based Event Management System.
-- Reduced manual effort by approximately 40%.
-- Implemented database integration and attendee tracking.
-
-**Technologies:**
-
-`Java` `HTML` `CSS` `MySQL` `REST APIs`
-
-
----
-
-## 💻 Full Stack Development Intern
-
-### Infosys Springboard (Virtual Internship)
-
-📅 09/2025 – 11/2025
-
-- Developed Smart Grievance & Feedback Management System.
-- Implemented anonymous complaint reporting.
-- Created automated escalation workflow.
-
-**Technologies:**
-
-`React` `JavaScript` `HTML` `CSS` `MySQL` `REST APIs`
-
-
----
-
-# 🏆 Achievements
 
 <table>
 
 <tr>
 
-<td>
+<td align="center">
 
-📄 **Research Publication**
+<h3>🌐 Web Development Intern</h3>
 
-Prediction of Lifestyle Diseases using Random Forest  
-AIJFR (2026)
-
+<b>We Touch Technologies</b>
 
 <br>
 
-🎤 **Technical Presentation**
+📅 06/2024 - 08/2024
 
-Blockchain Technology  
-NEXUS 2K25, Government College of Technology, Coimbatore
+<br><br>
 
+Built a Web-based Event Management System.
 
 <br>
 
-🤖 **AI Innovation Challenge**
+Reduced manual effort by approximately 40%.
 
-India AI Impact Buildathon 2026  
-Organized by GUVI & HCL
+<br>
+
+Enabled attendee tracking for better coordination.
+
+<br><br>
+
+<b>Technologies:</b>
+
+Java • HTML • CSS • MySQL • REST APIs
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center">
+
+<h3>💻 Full Stack Development Intern</h3>
+
+<b>Infosys Springboard (Virtual Internship)</b>
+
+<br>
+
+📅 09/2025 - 11/2025
+
+<br><br>
+
+Developed Smart Grievance & Feedback Management System.
+
+<br>
+
+Implemented anonymous reporting and automated escalation workflow.
+
+<br><br>
+
+<b>Technologies:</b>
+
+React • JavaScript • MySQL • REST APIs
 
 </td>
 
@@ -332,27 +374,119 @@ Organized by GUVI & HCL
 
 </table>
 
-
----
-
-# 📜 Certifications
-
-
-| Certification | Organization | Year |
-|---|---|---|
-| Software Testing (Elite) | NPTEL | 2025 |
-| Introduction to Cloud Computing | AWS | 2026 |
-| Cybersecurity Virtual Simulation | Deloitte Australia - Forage | 2026 |
-| Data Analytics Virtual Simulation | Deloitte Australia - Forage | 2026 |
-| AI & Machine Learning (Gold) | FutureSkills Prime (NASSCOM) | 2026 |
-| Cloud Computing Engineering (Gold) | FutureSkills Prime (NASSCOM) | 2026 |
-
+</div>
 
 ---
 
 <div align="center">
 
-# 📈 GitHub Stats
+# 🏆 Achievements
+
+<table>
+
+<tr>
+
+<td align="center">
+
+📄 Published Research Paper
+
+<br>
+
+<b>
+Prediction of Lifestyle Diseases using Random Forest
+</b>
+
+<br>
+
+AIJFR (2026)
+
+<br><br>
+
+🎤 Presented Technical PPT
+
+<br>
+
+<b>
+Blockchain Technology
+</b>
+
+<br>
+
+NEXUS 2K25  
+Government College of Technology, Coimbatore
+
+<br><br>
+
+🤖 Participated in
+
+<br>
+
+<b>
+India AI Impact Buildathon 2026
+</b>
+
+<br>
+
+GUVI × HCL
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📜 Certifications
+
+<table>
+
+<tr>
+
+<td align="center">
+
+🏅 Software Testing (Elite)  
+NPTEL (2025)
+
+<br><br>
+
+☁️ Introduction to Cloud Computing  
+AWS (2026)
+
+<br><br>
+
+🔐 Deloitte Australia Virtual Job Simulation  
+Cybersecurity & Data Analytics (2026)
+
+<br><br>
+
+🤖 FutureSkills Prime (NASSCOM)
+
+<br>
+
+AI & Machine Learning — Gold
+
+<br>
+
+Cloud Computing Engineering — Gold
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aberami7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -362,47 +496,38 @@ Organized by GUVI & HCL
 
 </div>
 
-
 ---
 
 <div align="center">
 
-# 🐍 Contribution Journey
+# 📫 Connect With Me
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<br>
+
+📧 abepadmanaban@gmail.com
+
+<br>
+
+🔗 github.com/Aberami7
+
+<br>
+
+🔗 linkedin.com/in/aberami-ka
 
 </div>
 
-
 ---
 
 <div align="center">
-
-# 🎯 Current Focus
-
-```
-Data Structures & Algorithms
-          ↓
-Backend Engineering
-          ↓
-AI Application Development
-          ↓
-Building Scalable Solutions
-```
-
-</div>
-
-
----
-
-<div align="center">
-
-<h2>⚡ Code • Create • Innovate</h2>
-
-<p>
-Building intelligent solutions for real-world challenges.
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+<h2>
+⚡ Code • Create • Innovate
+</h2>
+
+<p>
+Building intelligent solutions for real-world problems.
+</p>
 
 </div>
