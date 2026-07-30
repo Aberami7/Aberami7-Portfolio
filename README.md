@@ -44,7 +44,7 @@ Currently focusing on:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,html,css,django,fastapi,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,html,css,mysql,git,github,vscode"/>
 
 </div>
 
