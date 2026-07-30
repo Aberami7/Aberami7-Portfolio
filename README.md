@@ -41,116 +41,40 @@ Currently focusing on:
 
 <div align="center">
 
-<table width="100%">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,fastapi,mysql,html,css,git,github,vscode" />
+
+<br><br>
+
+<table align="center">
 
 <tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=java" width="70"/>
-
-<br><b>Java</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=python" width="70"/>
-
-<br><b>Python</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript" width="70"/>
-
-<br><b>JavaScript</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=react" width="70"/>
-
-<br><b>React.js</b>
-
-</td>
-
+<th>Category</th>
+<th>Skills</th>
 </tr>
 
-
 <tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi" width="70"/>
-
-<br><b>FastAPI</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" width="70"/>
-
-<br><b>MySQL</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=html" width="70"/>
-
-<br><b>HTML5</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=css" width="70"/>
-
-<br><b>CSS3</b>
-
-</td>
-
+<td align="center">👨‍💻 Programming Languages</td>
+<td align="center">Java, Python, JavaScript</td>
 </tr>
 
+<tr>
+<td align="center">🌐 Frontend Development</td>
+<td align="center">HTML5, CSS3, React.js</td>
+</tr>
 
 <tr>
+<td align="center">⚙️ Backend Development</td>
+<td align="center">FastAPI, REST APIs</td>
+</tr>
 
-<td align="center">
+<tr>
+<td align="center">🗄️ Database</td>
+<td align="center">MySQL</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=git" width="70"/>
-
-<br><b>Git</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=github" width="70"/>
-
-<br><b>GitHub</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode" width="70"/>
-
-<br><b>VS Code</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=postman" width="70"/>
-
-<br><b>REST API</b>
-
-</td>
-
+<tr>
+<td align="center">🔧 Tools</td>
+<td align="center">Git, GitHub, VS Code</td>
 </tr>
 
 </table>
