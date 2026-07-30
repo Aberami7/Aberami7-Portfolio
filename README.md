@@ -1,24 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=ABERAMI+K+A;Engineering+the+Future;Full+Stack+Developer;AI+%26+Backend+Specialist"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=ABERAMI+K+A;Computer+Science+Engineering+Student;Full+Stack+Developer;AI+%26+Backend+Enthusiast"/>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/Aberami7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aberami-ka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abepadmanaban@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="300" align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aberami7&show_icons=true&theme=tokyonight&hide_border=true" align="left">
-  <br><br><br><br><br><br><br>
-</p>
 
 ---
 
@@ -29,7 +21,7 @@
 
 # 🛠️ Technical Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,html,css,django,fastapi,mysql,git,github,vscode,docker"/>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,html,css,mysql,git,github,vscode"/>
 </div>
 
 ---
@@ -39,12 +31,12 @@
 ### 🌱 Verdant AI: AI Powered Sustainable Product Analyzer
 *   **Description:** An AI-powered platform that analyzes product ingredients and provides sustainability insights.
 *   **Highlights:** Automated ingredient extraction using EasyOCR, Greenwashing detection using AI, Intelligent eco-report generation, AI workflow orchestration.
-*   **Tech Stack:** `React.js`, `TypeScript`, `FastAPI`, `EasyOCR`, `LangGraph`, `Groq LLM`, `Aiven Cloud DB`.
+*   **Tech Stack:** `React.js`, `TypeScript`, `EasyOCR`, `LangGraph`, `Groq LLM`, `Aiven Cloud DB`.
 
 ### 🚖 Privacy-Preserving Secure Payment System
 *   **Description:** A secure ride-booking application designed to protect rider and driver payment privacy.
 *   **Highlights:** Razorpay payment gateway integration, Secure transaction workflow, Privacy-focused payment handling, Automated payment processing.
-*   **Tech Stack:** `React.js`, `Django`, `Python`, `Razorpay API`, `REST APIs`.
+*   **Tech Stack:** `React.js`, `Python`, `Razorpay API`, `REST APIs`.
 
 ### 📢 Smart Grievance & Feedback Management System
 *   **Description:** A full-stack system designed to digitize grievance handling with transparency and automation.
@@ -59,8 +51,16 @@
 ---
 
 # 💼 Experience
-*   **Full Stack Development Intern** | Infosys Springboard (09/2025 - 11/2025)
-*   **Web Development Intern** | We Touch Technologies (06/2024 - 08/2024)
+
+### Full Stack Development Intern | Infosys Springboard (09/2025 - 11/2025)
+*   Designed and implemented a **Smart Grievance & Feedback System** to digitize institutional complaint handling.
+*   Engineered an automated **2-day escalation workflow** for unresolved issues, significantly improving administrative response efficiency.
+*   Ensured anonymous complaint reporting and real-time tracking through the admin dashboard.
+
+### Web Development Intern | We Touch Technologies (06/2024 - 08/2024)
+*   Developed a high-impact **Event Management System** to streamline event planning and execution.
+*   Enabled **real-time attendee tracking**, which reduced manual coordination efforts by approximately 40%.
+*   Collaborated on full-stack integration, bridging frontend interfaces with robust backend database management.
 
 ---
 
