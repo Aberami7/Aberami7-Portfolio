@@ -38,55 +38,43 @@ Currently focusing on:
 - Scalable Software Systems
 
 
----
 # 🛠️ Technical Skills
 
 <div align="center">
 
-<table>
+<table width="100%">
 
 <tr>
 
-<td align="center" width="25%">
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=java" width="50"/>
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
 
-<br>
-
-<b>Java</b>
+<br><b>Java</b>
 
 </td>
 
+<td align="center">
 
-<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
 
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
-
-<br>
-
-<b>Python</b>
+<br><b>Python</b>
 
 </td>
 
+<td align="center">
 
-<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/>
 
-<img src="https://skillicons.dev/icons?i=javascript" width="50"/>
-
-<br>
-
-<b>JavaScript</b>
+<br><b>JavaScript</b>
 
 </td>
 
+<td align="center">
 
-<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" width="55"/>
 
-<img src="https://skillicons.dev/icons?i=react" width="50"/>
-
-<br>
-
-<b>React.js</b>
+<br><b>React.js</b>
 
 </td>
 
@@ -97,44 +85,33 @@ Currently focusing on:
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="55"/>
 
-<br>
-
-<b>FastAPI</b>
+<br><b>FastAPI</b>
 
 </td>
 
-
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
 
-<br>
-
-<b>MySQL</b>
+<br><b>MySQL</b>
 
 </td>
 
-
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=html" width="50"/>
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
 
-<br>
-
-<b>HTML5</b>
+<br><b>HTML5</b>
 
 </td>
 
-
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=css" width="50"/>
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
 
-<br>
-
-<b>CSS3</b>
+<br><b>CSS3</b>
 
 </td>
 
@@ -145,44 +122,33 @@ Currently focusing on:
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
 
-<br>
-
-<b>Git</b>
+<br><b>Git</b>
 
 </td>
 
-
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 
-<br>
-
-<b>GitHub</b>
+<br><b>GitHub</b>
 
 </td>
 
-
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
 
-<br>
-
-<b>VS Code</b>
+<br><b>VS Code</b>
 
 </td>
 
-
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=opencv" width="50"/>
+<img src="https://skillicons.dev/icons?i=opencv" width="55"/>
 
-<br>
-
-<b>OpenCV</b>
+<br><b>OpenCV</b>
 
 </td>
 
