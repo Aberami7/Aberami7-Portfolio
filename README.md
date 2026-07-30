@@ -37,7 +37,6 @@ Currently focusing on:
 - Artificial Intelligence Applications
 - Scalable Software Systems
 
-
 # 🛠️ Technical Skills
 
 <div align="center">
@@ -46,72 +45,43 @@ Currently focusing on:
 
 <tr>
 
-<td align="center">
+<td align="center" style="border-radius:10px;">
 
-<img src="https://skillicons.dev/icons?i=java" width="55"/>
+<img src="https://skillicons.dev/icons?i=java" width="50"/>
 
-<br><b>Java</b>
+<br>
 
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=python" width="55"/>
-
-<br><b>Python</b>
+<b>Java</b>
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript" width="55"/>
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
 
-<br><b>JavaScript</b>
+<br>
 
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=react" width="55"/>
-
-<br><b>React.js</b>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi" width="55"/>
-
-<br><b>FastAPI</b>
+<b>Python</b>
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="50"/>
 
-<br><b>MySQL</b>
+<br>
 
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=html" width="55"/>
-
-<br><b>HTML5</b>
+<b>JavaScript</b>
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=css" width="55"/>
+<img src="https://skillicons.dev/icons?i=react" width="50"/>
 
-<br><b>CSS3</b>
+<br>
+
+<b>React.js</b>
 
 </td>
 
@@ -122,33 +92,86 @@ Currently focusing on:
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=git" width="55"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
 
-<br><b>Git</b>
+<br>
 
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-
-<br><b>GitHub</b>
+<b>FastAPI</b>
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
 
-<br><b>VS Code</b>
+<br>
+
+<b>MySQL</b>
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=opencv" width="55"/>
+<img src="https://skillicons.dev/icons?i=html" width="50"/>
 
-<br><b>OpenCV</b>
+<br>
+
+<b>HTML5</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=css" width="50"/>
+
+<br>
+
+<b>CSS3</b>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+
+<br>
+
+<b>Git</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+
+<br>
+
+<b>GitHub</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+
+<br>
+
+<b>VS Code</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=opencv" width="50"/>
+
+<br>
+
+<b>OpenCV</b>
 
 </td>
 
@@ -157,7 +180,6 @@ Currently focusing on:
 </table>
 
 </div>
-
 # 🚀 Featured Projects
 
 
