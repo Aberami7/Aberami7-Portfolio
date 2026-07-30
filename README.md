@@ -251,14 +251,15 @@ Organized by:
 
 <img src="https://streak-stats.demolab.com?user=Aberami7&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+</div>
+
+<br>
 
 # 📈 Coding Activity
 
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aberami7&theme=tokyo-night&hide_border=true&area=true"/>
-
-<br><br>
-
 
 </div>
 
