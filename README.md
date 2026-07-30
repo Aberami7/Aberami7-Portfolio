@@ -129,28 +129,6 @@ A secure ride-booking application designed to protect rider and driver payment p
 
 ---
 
-## 📢 Smart Grievance & Feedback Management System
-
-### Institutional Complaint Management Platform
-
-A full-stack system designed to digitize grievance handling with transparency and automation.
-
-### ✨ Key Highlights
-
-- Anonymous complaint submission
-- Complaint tracking system
-- Admin workflow management
-- SLA-based escalation mechanism
-
-### 🛠️ Tech Stack
-
-`React`  
-`JavaScript`  
-`HTML`  
-`CSS`  
-`MySQL`  
-`REST APIs`****
----
 
 # 💼 Experience
 
