@@ -39,42 +39,158 @@ Currently focusing on:
 
 
 ---
-
 # 🛠️ Technical Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,html,css,mysql,git,github,vscode"/>
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=java" width="50"/>
+
+<br>
+
+<b>Java</b>
+
+</td>
+
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+
+<br>
+
+<b>Python</b>
+
+</td>
+
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+
+<br>
+
+<b>JavaScript</b>
+
+</td>
+
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=react" width="50"/>
+
+<br>
+
+<b>React.js</b>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
+
+<br>
+
+<b>FastAPI</b>
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+
+<br>
+
+<b>MySQL</b>
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=html" width="50"/>
+
+<br>
+
+<b>HTML5</b>
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=css" width="50"/>
+
+<br>
+
+<b>CSS3</b>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+
+<br>
+
+<b>Git</b>
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+
+<br>
+
+<b>GitHub</b>
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+
+<br>
+
+<b>VS Code</b>
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=opencv" width="50"/>
+
+<br>
+
+<b>OpenCV</b>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
-
-
-### 💻 Programming Languages
-
-`Java` `Python` `JavaScript`
-
-
-### 🌐 Frontend Development
-
-`HTML5` `CSS3` `React.js` `TypeScript`
-
-
-### ⚙️ Backend Development
-
-`Django` `FastAPI` `REST APIs`
-
-
-### 🗄️ Database
-
-`MySQL` `Aiven Cloud DB`
-
-
-### 🔧 Tools
-
-`Git` `GitHub` `VS Code`
-
-
----
 
 # 🚀 Featured Projects
 
