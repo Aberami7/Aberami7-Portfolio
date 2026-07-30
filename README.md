@@ -1,6 +1,8 @@
-<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=ABERAMI%20K%20A&fontSize=70&fontColor=00FFFF&animation=fadeIn"/><div align="center">
 
 <div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=200&section=header&text=ABERAMI%20K%20A&fontSize=65&animation=twinkling"/>
 
