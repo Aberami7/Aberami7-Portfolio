@@ -244,21 +244,14 @@ Organized by:
 </div>
 
 ---
+
 # 📊 GitHub Stats
 
 <div align="center">
 
-<br>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=Aberami7&theme=tokyonight&hide_border=true"/>
 
 <br><br>
-
-<div align="center">
-
-<div align="center">
 
 # 💻 Most Used Languages
 
@@ -277,6 +270,7 @@ Organized by:
 <img src="https://github-profile-trophy.vercel.app/?username=Aberami7&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
+
 ---
 
 <div align="center">
@@ -285,7 +279,7 @@ Organized by:
 
 ### Turning Ideas into Scalable Software Solutions
 
-
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=120&section=footer"/>
 
