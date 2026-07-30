@@ -1,40 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Aberami%20K.A&fontSize=70&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ABERAMI%20K%20A&fontSize=65&animation=fadeIn"/>
 
 <h2>👋 Hello, I'm Aberami</h2>
 
 <h3>
-💻 Computer Science Engineering Student | Full Stack Developer | AI Enthusiast
+💻 Computer Science and Engineering Student
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Real+World+Applications;AI+%26+Full+Stack+Developer;Java+%7C+Python+%7C+React+Enthusiast;Learning+%26+Creating+Everyday"/>
+<p>
+🚀 Full Stack Developer &nbsp; | &nbsp; 🤖 AI Enthusiast &nbsp; | &nbsp; 🧠 Problem Solver
+</p>
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Aberami7&label=Profile%20Views&color=blue&style=flat"/>
+<a href="mailto:abepadmanaban@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aberami7">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/aberami-ka">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🚀 Professional Summary
 
-```yaml
-Name: Aberami K.A
-Education: Computer Science Engineering
+Computer Science and Engineering student with hands-on experience in full-stack and AI-based application development.
 
-Passionate About:
-  - Artificial Intelligence
-  - Full Stack Development
-  - Backend Engineering
-  - Problem Solving
+Skilled in **Java, Python, React.js, Backend Development, and API Integration** with a strong focus on building scalable, real-time applications.
 
-Currently Learning:
-  - Data Structures & Algorithms
-  - Advanced Java
-  - AI Application Development
-```
+Passionate about solving real-world problems through technology and continuously improving software development skills.
 
 ---
 
@@ -42,120 +44,13 @@ Currently Learning:
 
 # ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,html,css,nodejs,django,fastapi,mysql,git,github,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,html,css,nodejs,django,fastapi,mysql,git,github,docker,vscode"/>
 
 </div>
 
 ---
 
-# 💻 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%" align="center">
-
-<h3>🌱 Verdant AI</h3>
-
-AI-powered eco product analyzer that detects greenwashing and provides sustainability insights.
-
-<br>
-
-<b>Tech Stack</b>
-
-<br>
-
-React.js • FastAPI • MySQL • EasyOCR • Groq AI • LangChain
-
-</td>
-
-
-<td width="50%" align="center">
-
-<h3>🚖 Privacy-Preserving Secure Payment System</h3>
-
-Secure ride-booking platform that protects user privacy using a trusted payment workflow.
-
-<br>
-
-<b>Tech Stack</b>
-
-<br>
-
-React.js • Django • MySQL • Razorpay
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%" align="center">
-
-<h3>📢 Smart Grievance Management System</h3>
-
-Full-stack complaint management platform with tracking, escalation and analytics.
-
-<br>
-
-<b>Tech Stack</b>
-
-<br>
-
-React • Node.js • Express.js • MySQL
-
-</td>
-
-
-<td width="50%" align="center">
-
-<h3>☕ Java Practice</h3>
-
-Collection of Java programming problems and solutions for improving coding skills.
-
-<br>
-
-<b>Topics</b>
-
-<br>
-
-Arrays • Strings • 2D Arrays
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🧠 Learning Journey
-
-<div align="center">
-
-```
-Java Fundamentals
-        │
-        ▼
-Data Structures & Algorithms
-        │
-        ▼
-Backend Development
-        │
-        ▼
-AI Integration
-        │
-        ▼
-Real World Applications
-```
-
-</div>
-
----
-
-# 🛠️ Skills
+# 🧠 Skills
 
 <table>
 
@@ -163,7 +58,7 @@ Real World Applications
 
 <td align="center">
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming
 
 Java  
 Python  
@@ -171,27 +66,25 @@ JavaScript
 
 </td>
 
-
 <td align="center">
 
-### 🌐 Development
+### 🌐 Frontend
 
+HTML5  
+CSS3  
 React.js  
-FastAPI  
-Django  
-Node.js
+TypeScript
 
 </td>
 
-
 <td align="center">
 
-### 🗄️ Tools
+### ⚙️ Backend & Tools
 
-MySQL  
-Git  
-GitHub  
-Docker
+Django  
+FastAPI  
+REST APIs  
+Git & GitHub
 
 </td>
 
@@ -199,20 +92,267 @@ Docker
 
 </table>
 
----
-
-# 🏆 Highlights
-
-- 🚀 Developed multiple full-stack applications
-- 🤖 Built AI-powered solutions using modern technologies
-- 📚 Published research work in Machine Learning
-- 💻 Practicing Data Structures and Algorithms
 
 ---
 
-# 📊 GitHub Statistics
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2 align="center">🌱 Verdant AI</h2>
+
+<h4 align="center">
+AI Powered Sustainable Product Analyzer
+</h4>
+
+<p>
+
+• AI-based ingredient analysis system  
+• Automated ingredient extraction using EasyOCR  
+• Detects greenwashing and provides sustainability insights  
+• Generates intelligent eco reports
+
+</p>
+
+<b>Tech Stack</b>
+
+<br>
+
+`React.js` `TypeScript` `FastAPI` `Aiven Cloud DB`  
+`EasyOCR` `LangGraph` `Groq LLM`
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h2 align="center">🚖 Secure Payment System</h2>
+
+<h4 align="center">
+Privacy-Preserving Ride Payment Platform
+</h4>
+
+<p>
+
+• Secure ride booking application  
+• Razorpay UPI payment integration  
+• Protects rider-driver payment privacy  
+• Automated transaction workflow
+
+</p>
+
+<b>Tech Stack</b>
+
+<br>
+
+`React.js` `Django` `Python`  
+`Razorpay API` `REST APIs`
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2 align="center">📢 Smart Grievance System</h2>
+
+<h4 align="center">
+Complaint Management Platform
+</h4>
+
+<p>
+
+• Anonymous complaint submission  
+• Admin dashboard workflow  
+• Automated escalation system  
+• Complaint tracking and analytics
+
+</p>
+
+<b>Tech Stack</b>
+
+<br>
+
+`React` `JavaScript` `HTML`  
+`CSS` `MySQL` `REST APIs`
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h2 align="center">🎫 Event Management System</h2>
+
+<h4 align="center">
+Web Based Event Platform
+</h4>
+
+<p>
+
+• Developed during internship  
+• Reduced manual management effort  
+• Enabled attendee tracking system
+
+</p>
+
+<b>Tech Stack</b>
+
+<br>
+
+`Java` `HTML` `CSS`  
+`MySQL` `REST APIs`
+
+</td>
+
+</tr>
+
+</table>
+
+
+---
+
+# 🎓 Education
+
+<table>
+
+<tr>
+
+<td>
+
+### 🎓 B.E Computer Science and Engineering
+
+**V.S.B. Engineering College, Karur**
+
+📅 2023 – 2027 (Present)
+
+⭐ CGPA: 8.50
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td>
+
+### 🏫 Higher Secondary Education
+
+**KSV Higher Secondary School, Karur**
+
+📅 2022 – 2023
+
+⭐ Percentage: 94.5%
+
+</td>
+
+</tr>
+
+</table>
+
+
+---
+
+# 💼 Work Experience
+
+
+## 🌐 Web Development Intern
+
+### We Touch Technologies
+
+📅 06/2024 – 08/2024
+
+- Built a web-based Event Management System.
+- Reduced manual effort by approximately 40%.
+- Implemented database integration and attendee tracking.
+
+**Technologies:**
+
+`Java` `HTML` `CSS` `MySQL` `REST APIs`
+
+
+---
+
+## 💻 Full Stack Development Intern
+
+### Infosys Springboard (Virtual Internship)
+
+📅 09/2025 – 11/2025
+
+- Developed Smart Grievance & Feedback Management System.
+- Implemented anonymous complaint reporting.
+- Created automated escalation workflow.
+
+**Technologies:**
+
+`React` `JavaScript` `HTML` `CSS` `MySQL` `REST APIs`
+
+
+---
+
+# 🏆 Achievements
+
+<table>
+
+<tr>
+
+<td>
+
+📄 **Research Publication**
+
+Prediction of Lifestyle Diseases using Random Forest  
+AIJFR (2026)
+
+
+<br>
+
+🎤 **Technical Presentation**
+
+Blockchain Technology  
+NEXUS 2K25, Government College of Technology, Coimbatore
+
+
+<br>
+
+🤖 **AI Innovation Challenge**
+
+India AI Impact Buildathon 2026  
+Organized by GUVI & HCL
+
+</td>
+
+</tr>
+
+</table>
+
+
+---
+
+# 📜 Certifications
+
+
+| Certification | Organization | Year |
+|---|---|---|
+| Software Testing (Elite) | NPTEL | 2025 |
+| Introduction to Cloud Computing | AWS | 2026 |
+| Cybersecurity Virtual Simulation | Deloitte Australia - Forage | 2026 |
+| Data Analytics Virtual Simulation | Deloitte Australia - Forage | 2026 |
+| AI & Machine Learning (Gold) | FutureSkills Prime (NASSCOM) | 2026 |
+| Cloud Computing Engineering (Gold) | FutureSkills Prime (NASSCOM) | 2026 |
+
+
+---
 
 <div align="center">
+
+# 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aberami7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -222,41 +362,36 @@ Docker
 
 </div>
 
+
 ---
 
-# 🐍 Contribution Graph
-
 <div align="center">
+
+# 🐍 Contribution Journey
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
----
 
-# 🌐 Connect With Me
+---
 
 <div align="center">
 
-<a href="https://github.com/Aberami7">
+# 🎯 Current Focus
 
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="#">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="#">
-
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-
-</a>
+```
+Data Structures & Algorithms
+          ↓
+Backend Engineering
+          ↓
+AI Application Development
+          ↓
+Building Scalable Solutions
+```
 
 </div>
+
 
 ---
 
@@ -265,7 +400,7 @@ Docker
 <h2>⚡ Code • Create • Innovate</h2>
 
 <p>
-Building solutions that create real-world impact.
+Building intelligent solutions for real-world challenges.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
