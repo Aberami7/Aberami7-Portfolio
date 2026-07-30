@@ -190,41 +190,42 @@ A secure ride-booking application designed to protect rider and driver payment p
 # 🏆 Achievements
 
 
-### 📄 Research Publication
+## 📄 Research Publication
 
-**"Prediction of Lifestyle Diseases using Random Forest"**
+### "Prediction of Lifestyle Diseases using Random Forest"
 
-Published in **AIJFR (2026)**
+Published research paper in **AIJFR (2026)**
+
+🔹 Machine Learning based prediction approach using Random Forest algorithm.
 
 
-<br>
+---
 
+## 🎤 Technical Presentation
 
-### 🎤 Technical Presentation
+### Blockchain Technology
 
-Presented technical PPT on:
+Presented a technical PPT at:
 
-**Blockchain Technology**
-
-📍 NEXUS 2K25  
+🏛️ **NEXUS 2K25**  
 Government College of Technology, Coimbatore
 
-📅 04/2025
+📅 April 2025
 
 
-<br>
+---
 
+## 🤖 AI Innovation Challenge
 
-### 🤖 AI Innovation Challenge
+### India AI Impact Buildathon 2026
 
-Participated in:
+Participated in a nationwide AI innovation challenge.
 
-**India AI Impact Buildathon 2026**
+Organized by:
 
-Organized by **GUVI & HCL**
+🚀 **GUVI & HCL**
 
-📅 02/2026
-
+📅 February 2026
 
 ---
 # 📜 Certifications
