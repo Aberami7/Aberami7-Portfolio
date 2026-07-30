@@ -47,70 +47,33 @@ Currently focusing on:
 
 <td align="center">
 
-### ☕ Java
+<img src="https://skillicons.dev/icons?i=java" width="70"/>
 
-<img src="https://skillicons.dev/icons?i=java" width="45"/>
-
-</td>
-
-<td align="center">
-
-### 🐍 Python
-
-<img src="https://skillicons.dev/icons?i=python" width="45"/>
+<br><b>Java</b>
 
 </td>
 
 <td align="center">
 
-### ⚡ JavaScript
+<img src="https://skillicons.dev/icons?i=python" width="70"/>
 
-<img src="https://skillicons.dev/icons?i=javascript" width="45"/>
-
-</td>
-
-<td align="center">
-
-### ⚛️ React.js
-
-<img src="https://skillicons.dev/icons?i=react" width="45"/>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td align="center">
-
-### 🚀 FastAPI
-
-<img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
+<br><b>Python</b>
 
 </td>
 
 <td align="center">
 
-### 🗄️ MySQL
+<img src="https://skillicons.dev/icons?i=javascript" width="70"/>
 
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
-
-</td>
-
-<td align="center">
-
-### 🌐 HTML5
-
-<img src="https://skillicons.dev/icons?i=html" width="45"/>
+<br><b>JavaScript</b>
 
 </td>
 
 <td align="center">
 
-### 🎨 CSS3
+<img src="https://skillicons.dev/icons?i=react" width="70"/>
 
-<img src="https://skillicons.dev/icons?i=css" width="45"/>
+<br><b>React.js</b>
 
 </td>
 
@@ -121,33 +84,70 @@ Currently focusing on:
 
 <td align="center">
 
-### 🔧 Git
+<img src="https://skillicons.dev/icons?i=fastapi" width="70"/>
 
-<img src="https://skillicons.dev/icons?i=git" width="45"/>
-
-</td>
-
-<td align="center">
-
-### 🐙 GitHub
-
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+<br><b>FastAPI</b>
 
 </td>
 
 <td align="center">
 
-### 💻 VS Code
+<img src="https://skillicons.dev/icons?i=mysql" width="70"/>
 
-<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+<br><b>MySQL</b>
 
 </td>
 
 <td align="center">
 
-### 🔌 REST API
+<img src="https://skillicons.dev/icons?i=html" width="70"/>
 
-<img src="https://skillicons.dev/icons?i=postman" width="45"/>
+<br><b>HTML5</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=css" width="70"/>
+
+<br><b>CSS3</b>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="70"/>
+
+<br><b>Git</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="70"/>
+
+<br><b>GitHub</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="70"/>
+
+<br><b>VS Code</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=postman" width="70"/>
+
+<br><b>REST API</b>
 
 </td>
 
