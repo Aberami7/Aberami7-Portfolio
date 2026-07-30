@@ -45,43 +45,35 @@ Currently focusing on:
 
 <tr>
 
-<td align="center" style="border-radius:10px;">
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=java" width="50"/>
+### ☕ Java
 
-<br>
-
-<b>Java</b>
+<img src="https://skillicons.dev/icons?i=java" width="45"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
+### 🐍 Python
 
-<br>
-
-<b>Python</b>
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+### ⚡ JavaScript
 
-<br>
-
-<b>JavaScript</b>
+<img src="https://skillicons.dev/icons?i=javascript" width="45"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=react" width="50"/>
+### ⚛️ React.js
 
-<br>
-
-<b>React.js</b>
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
 
 </td>
 
@@ -92,41 +84,33 @@ Currently focusing on:
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
+### 🚀 FastAPI
 
-<br>
-
-<b>FastAPI</b>
+<img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+### 🗄️ MySQL
 
-<br>
-
-<b>MySQL</b>
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=html" width="50"/>
+### 🌐 HTML5
 
-<br>
-
-<b>HTML5</b>
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=css" width="50"/>
+### 🎨 CSS3
 
-<br>
-
-<b>CSS3</b>
+<img src="https://skillicons.dev/icons?i=css" width="45"/>
 
 </td>
 
@@ -137,41 +121,33 @@ Currently focusing on:
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
+### 🔧 Git
 
-<br>
-
-<b>Git</b>
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+### 🐙 GitHub
 
-<br>
-
-<b>GitHub</b>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+### 💻 VS Code
 
-<br>
-
-<b>VS Code</b>
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=opencv" width="50"/>
+### 🔌 REST API
 
-<br>
-
-<b>OpenCV</b>
+<img src="https://skillicons.dev/icons?i=postman" width="45"/>
 
 </td>
 
@@ -180,7 +156,7 @@ Currently focusing on:
 </table>
 
 </div>
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 
 ## 🌱 Verdant AI
