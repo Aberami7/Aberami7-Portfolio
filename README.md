@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ABERAMI%20K%20A&fontSize=65&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aberami+K.A;Full+Stack+Developer;AI+%26+Backend+Enthusiast;Building+Real+World+Solutions"/>
 
 <h2>👋 Hello, I'm Aberami</h2>
 
