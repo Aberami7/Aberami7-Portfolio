@@ -36,45 +36,96 @@ Currently focusing on:
 - Backend Development
 - Artificial Intelligence Applications
 - Scalable Software Systems
-
 # 🛠️ Technical Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,fastapi,mysql,html,css,git,github,vscode"/>
-
-<br><br>
-
-<table align="center" width="90%">
+<table width="90%">
 
 <tr>
-<th width="35%">Category</th>
-<th width="65%">Skills</th>
+
+<td align="center" width="33%">
+
+### ☕ Java
+
+<img src="https://skillicons.dev/icons?i=java" width="45"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🐍 Python
+
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡ JavaScript
+
+<img src="https://skillicons.dev/icons?i=javascript" width="45"/>
+
+</td>
+
 </tr>
 
-<tr>
-<td align="center">👨‍💻 Programming Languages</td>
-<td align="center">Java, Python, JavaScript</td>
-</tr>
 
 <tr>
-<td align="center">🌐 Frontend Development</td>
-<td align="center">HTML5, CSS3, React.js</td>
+
+<td align="center">
+
+### ⚛️ React.js
+
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
+
+</td>
+
+<td align="center">
+
+### 🚀 FastAPI
+
+<img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
+
+</td>
+
+<td align="center">
+
+### 🗄️ MySQL
+
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+
+</td>
+
 </tr>
 
-<tr>
-<td align="center">⚙️ Backend Development</td>
-<td align="center">FastAPI, REST APIs</td>
-</tr>
 
 <tr>
-<td align="center">🗄️ Database</td>
-<td align="center">MySQL</td>
-</tr>
 
-<tr>
-<td align="center">🔧 Tools</td>
-<td align="center">Git, GitHub, VS Code</td>
+<td align="center">
+
+### 🌐 HTML5
+
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
+
+</td>
+
+<td align="center">
+
+### 🎨 CSS3
+
+<img src="https://skillicons.dev/icons?i=css" width="45"/>
+
+</td>
+
+<td align="center">
+
+### 🔧 Git & GitHub
+
+<img src="https://skillicons.dev/icons?i=git,github" width="70"/>
+
+</td>
+
 </tr>
 
 </table>
