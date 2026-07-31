@@ -36,6 +36,9 @@ Currently focusing on:
 - Backend Development
 - Artificial Intelligence Applications
 - Scalable Software Systems
+
+---
+
 # 🛠️ Technical Skills
 
 <div align="center">
@@ -46,7 +49,7 @@ Currently focusing on:
 
 <td align="center" width="33%">
 
-### ☕ Java
+
 
 <img src="https://skillicons.dev/icons?i=java" width="45"/>
 
@@ -54,7 +57,6 @@ Currently focusing on:
 
 <td align="center" width="33%">
 
-### 🐍 Python
 
 <img src="https://skillicons.dev/icons?i=python" width="45"/>
 
@@ -62,7 +64,7 @@ Currently focusing on:
 
 <td align="center" width="33%">
 
-### ⚡ JavaScript
+
 
 <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
 
@@ -75,7 +77,7 @@ Currently focusing on:
 
 <td align="center">
 
-### ⚛️ React.js
+
 
 <img src="https://skillicons.dev/icons?i=react" width="45"/>
 
@@ -83,7 +85,6 @@ Currently focusing on:
 
 <td align="center">
 
-### 🚀 FastAPI
 
 <img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
 
@@ -91,7 +92,6 @@ Currently focusing on:
 
 <td align="center">
 
-### 🗄️ MySQL
 
 <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
 
@@ -104,7 +104,7 @@ Currently focusing on:
 
 <td align="center">
 
-### 🌐 HTML5
+
 
 <img src="https://skillicons.dev/icons?i=html" width="45"/>
 
@@ -112,7 +112,6 @@ Currently focusing on:
 
 <td align="center">
 
-### 🎨 CSS3
 
 <img src="https://skillicons.dev/icons?i=css" width="45"/>
 
@@ -120,7 +119,6 @@ Currently focusing on:
 
 <td align="center">
 
-### 🔧 Git & GitHub
 
 <img src="https://skillicons.dev/icons?i=git,github" width="70"/>
 
@@ -131,6 +129,9 @@ Currently focusing on:
 </table>
 
 </div>
+
+---
+
 ## 🚀 Featured Projects
 
 
